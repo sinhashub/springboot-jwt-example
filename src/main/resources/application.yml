@@ -1,6 +1,7 @@
 #spring
 #  application
 #      name=jwtexample01
+#
 server:
   port: 8080
 
